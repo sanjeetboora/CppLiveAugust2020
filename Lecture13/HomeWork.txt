@@ -1,0 +1,23 @@
+Q1# Rotate M*N matrix 90 degree clockwise
+
+Q2# Given :
+	-Prefix Sum Matrix,
+	-Top Left and Bottom Right coordinates denoting a submatrix
+Find: 
+	Sum of given submatrix
+
+Q3# Given:
+	-Matrix
+	-Top Left and Bottom Right coordinates denoting a submatrix
+Find: 
+	Sum of given submatrix
+
+Q4# Given:
+	-Matrix
+	- 10 ^ 6 Queries
+		Query => Top Left and Bottom Right coordinates denoting a submatrix
+Find: 
+	Sum of submatrix for every query
+
+Q5# Go through the online content of character array
+
