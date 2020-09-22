@@ -1,0 +1,4 @@
+#Homework
+
+- Linear Search Recursive
+- Recursively check, if the given array is sorted or not
