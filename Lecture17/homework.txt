@@ -1,0 +1,4 @@
+#HomeWork
+
+- Keypad Codes
+- No. of ways to reach N by rolling Dice
