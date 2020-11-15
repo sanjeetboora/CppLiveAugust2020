@@ -20,10 +20,12 @@ public:
 
 class Solution {
 public:
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int k = lists.size();
         ListNode* result = new ListNode();
         ListNode* temp = result;
+
 
         priority_queue<ListNode*, vector<ListNode*>, Compare> pq;//min heap
 
